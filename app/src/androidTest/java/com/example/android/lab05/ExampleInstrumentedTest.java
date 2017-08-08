@@ -1,4 +1,4 @@
-package com.example.android.lab05_CourtCounter;
+package com.example.android.lab05;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

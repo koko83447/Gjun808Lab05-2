@@ -44,7 +44,6 @@
         android:onClick="resetScoreView"
         android:text="重置"
         android:textColor="@android:color/white"
-        android:background="?attr/colorPrimary"
-        android:textSize="@dimen/font_size"/>
+        android:background="?attr/colorPrimary"/>
 
 </RelativeLayout>
